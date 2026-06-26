@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
