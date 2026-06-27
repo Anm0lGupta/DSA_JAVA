@@ -1,20 +1,15 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
         Set<Integer> set = new HashSet<>();
-        int count = 0;
+        int n = candyType.length/2;
         for(int num:candyType)
         {
-            if(!set.contains(num))
-            {
-                set.add(num);
-                count++;
-            }
-        }
-        int n = candyType.length/2;
-        if(count>=n)
+            set.add(num);
+        if(set.size() == n)
         {
             return n;
         }
-        return count;
+    }
+        return set.size();
     }
 }
