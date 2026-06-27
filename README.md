@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0055-jump-game) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0088-merge-sorted-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
