@@ -1,24 +1,22 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        if(strs.length == 0 && strs == null)
+        // firstly check if string array is empty or not ma boii
+        if(strs == null || strs.length == 0)
         {
             return "";
         }
-        Arrays.sort(strs);
-        String first = strs[0];
+        //now last do the sorting ma boii
+        Arrays.sort(strs); // oh yeaa
+        String first = strs[0]; // first string
         String last = strs[strs.length - 1];
-        int i = 0;
-        while(i < first.length() && i < last.length())
+        while(first.indexOf(last) != 0)
         {
-            if(first.charAt(i) == last.charAt(i))
+            last = last.substring(0, last.length() -1);
+            if(last.isEmpty())
             {
-                i++;
-            }
-            else
-            {
-                break;
+                return "";
             }
         }
-        return first.substring(0, i);
+        return last;
     }
 }
