@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## String
 |  |
