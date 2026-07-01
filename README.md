@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0036-valid-sudoku) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## String
 |  |
@@ -154,4 +156,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
