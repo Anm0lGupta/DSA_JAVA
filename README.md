@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0278-first-bad-version) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
