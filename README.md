@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0162-find-peak-element) |
@@ -206,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
