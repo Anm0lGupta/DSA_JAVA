@@ -6,8 +6,8 @@ class Solution {
             int num = i;
             for(int j=i+1; j<=9; j++)
             {
-                num = num*10 + j;
-                if(num>=low && num<=high)
+                num = 10*num + j;
+                if(num>=low && num<= high)
                 {
                     list.add(num);
                 }
