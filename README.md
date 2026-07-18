@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0275-h-index-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1480-running-sum-of-1d-array) |
