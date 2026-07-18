@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
