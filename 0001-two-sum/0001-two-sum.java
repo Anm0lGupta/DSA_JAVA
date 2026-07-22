@@ -6,9 +6,12 @@ class Solution {
             int val = target - nums[i];
             if(mp.containsKey(val))
             {
-                return new int[] {i, mp.get(val)};
+                return new int[] {mp.get(val), i};
             }
-            mp.put(nums[i], i);
+            else
+            {
+                mp.put(nums[i], i);
+            }
         }
         return new int[] {};
     }
