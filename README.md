@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
