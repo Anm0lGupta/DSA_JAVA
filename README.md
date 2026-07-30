@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
@@ -199,11 +202,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
@@ -280,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Interactive
 |  |
@@ -330,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2396-strictly-palindromic-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
