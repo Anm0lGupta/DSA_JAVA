@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0398-random-pick-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0268-missing-number) |
+| [0398-random-pick-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0398-random-pick-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2396-strictly-palindromic-number) |
@@ -344,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
