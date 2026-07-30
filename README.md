@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
 | ------- |
