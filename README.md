@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Queue
 |  |
