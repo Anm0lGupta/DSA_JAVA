@@ -4,11 +4,7 @@ class Solution {
         for(int i=0; i<n.length(); i++)
         {
             int digit = n.charAt(i)-'0';
-            if(digit>=max)
-            {
-                max=digit;
-            }
-            if(max==9) break;
+            max = Math.max(digit, max);
         }
         return max;
     }
