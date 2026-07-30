@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0135-candy) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
