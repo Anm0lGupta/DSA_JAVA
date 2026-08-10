@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
