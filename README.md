@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0796-rotate-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
