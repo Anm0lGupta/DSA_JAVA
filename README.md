@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2396-strictly-palindromic-number) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
+| [1323-maximum-69-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
