@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1609-even-odd-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
@@ -501,12 +503,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
