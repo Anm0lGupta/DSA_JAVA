@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -496,4 +498,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
