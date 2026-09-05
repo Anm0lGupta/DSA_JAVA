@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -483,4 +484,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0164-maximum-gap) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
