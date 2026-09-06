@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2396-strictly-palindromic-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0877-stone-game) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
 |  |
