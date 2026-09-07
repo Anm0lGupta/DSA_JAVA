@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
