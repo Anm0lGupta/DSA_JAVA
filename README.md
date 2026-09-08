@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
+| [0814-binary-tree-pruning](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1609-even-odd-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1609-even-odd-tree) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
+| [0814-binary-tree-pruning](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0814-binary-tree-pruning) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
+| [0814-binary-tree-pruning](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1609-even-odd-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1609-even-odd-tree) |
