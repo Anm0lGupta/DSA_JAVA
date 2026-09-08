@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1089-duplicate-zeros) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1609-even-odd-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
@@ -522,5 +526,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1609-even-odd-tree](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
