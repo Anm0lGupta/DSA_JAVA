@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## DP on Trees
 |  |
 | ------- |
