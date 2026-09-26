@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
