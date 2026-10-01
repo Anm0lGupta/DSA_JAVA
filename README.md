@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0115-distinct-subsequences) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Pigeonhole Principle
 |  |
