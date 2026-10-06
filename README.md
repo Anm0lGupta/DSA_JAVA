@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Pigeonhole Principle
 |  |
