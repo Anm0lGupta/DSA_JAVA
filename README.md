@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Interactive
 |  |
