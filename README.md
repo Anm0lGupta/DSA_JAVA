@@ -644,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Database
+|  |
+| ------- |
+| [1393-capital-gainloss](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->
