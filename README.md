@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
