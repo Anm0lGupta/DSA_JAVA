@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/3895-count-digit-appearances) |
