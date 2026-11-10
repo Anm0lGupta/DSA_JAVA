@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
+| [0705-design-hashset](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0706-design-hashmap) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1669-merge-in-between-linked-lists) |
@@ -687,9 +690,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
