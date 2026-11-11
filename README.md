@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0912-sort-an-array) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1089-duplicate-zeros) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0706-design-hashmap) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
