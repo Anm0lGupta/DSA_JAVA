@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1539-kth-missing-positive-number) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2352-equal-row-and-column-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2373-largest-local-values-in-a-matrix) |
