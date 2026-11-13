@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0075-sort-colors) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
