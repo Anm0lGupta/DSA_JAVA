@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
