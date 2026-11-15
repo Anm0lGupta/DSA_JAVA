@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0486-predict-the-winner) |
+| [0498-diagonal-traverse](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [0554-brick-wall](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0575-distribute-candies) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2352-equal-row-and-column-pairs) |
