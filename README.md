@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0398-random-pick-index) |
+| [0415-add-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0796-rotate-string) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
