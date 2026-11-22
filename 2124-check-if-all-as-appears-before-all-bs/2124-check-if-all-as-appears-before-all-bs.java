@@ -2,14 +2,13 @@ class Solution {
     public boolean checkString(String s) {
         int a = 0;
         int b = 0;
-        char[] ch = s.toCharArray();
-        for(char c : ch)
+        for(int i=0; i<s.length(); i++)
         {
-            if(c == 'b')
+            if(s.charAt(i) == 'b')
             {
                 b++;
             }
-            if(c == 'a' && b != 0)
+            if(s.charAt(i) == 'a' && b != 0)
             {
                 return false;
             }
