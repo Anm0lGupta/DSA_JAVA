@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0125-valid-palindrome) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0415-add-strings) |
