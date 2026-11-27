@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0214-shortest-palindrome) |
 ## Design
 |  |
 | ------- |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0706-design-hashmap) |
 ## Monotonic Queue
@@ -770,4 +774,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anm0lGupta/DSA_JAVA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
